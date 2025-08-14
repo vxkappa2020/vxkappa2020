@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vxkappa2020
-- 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on Different projects 
+- 👀 I’m interested in Web Dev, Cyber Security and Cryptocurrency
+- 🌱 I’m a constant learner
 - 📫 How to reach me ...(vladxk123@gmail.com)
 
 <!---
